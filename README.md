@@ -1,4 +1,5 @@
-<h1 align="center"> Anna Komkova / HSE University teacher </h1>
+<h1 align="center"> Taras Balabaev / Web-designer </h1>
+<h2 align="center"> Code by annakomkova </h2>
 
 ###
 
