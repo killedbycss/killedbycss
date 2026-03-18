@@ -1,5 +1,4 @@
 <h1 align="center"> Taras Balabaev / Web-designer </h1>
-<h2 align="center"> Code by annakomkova </h2>
 
 ###
 
@@ -40,3 +39,5 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/annkomkova/annkomkova/refs/heads/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+<h2 align="center"> Code by annakomkova </h2>
